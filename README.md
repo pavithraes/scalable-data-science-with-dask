@@ -2,7 +2,9 @@ Talk given at [PyLadies Berlin meetup](https://www.meetup.com/PyLadies-Berlin/ev
 
 ## Binder
 
-Open the repository using binder:
+Open the repository using the binder link below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pavithraes/scalable-data-science-with-dask/main?urlpath=lab/tree/demo.ipynb)
 
 ## Local installation
 
