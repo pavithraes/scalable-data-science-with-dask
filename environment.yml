@@ -1,17 +1,17 @@
-name: pyladies-berlin-dask
+name: scale-with-dask
 channels:
   - conda-forge
+  - default
 dependencies:
-  - python=3.8
-  - nodejs
-  - dask>=2.30.0
-  - distributed>=2.30.0
-  - jupyterlab>=3
-  - pandas>=1.0.1
-  - bokeh>=2.2.0
-  - ipywidgets
-  - pip>=20.3.0
-  - pip:
-    - dask-labextension>=3.0.0
+  - python=3.9
+  - dask
+  - distributed
+  - jupyterlab
+  - pandas
+  - pip
+  - dask-labextension
   - python-graphviz
   - coiled
+  - boto3
+  - s3fs>=2021.08.0
+  - nodejs

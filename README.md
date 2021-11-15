@@ -1,10 +1,12 @@
-Talk given at [PyLadies Berlin meetup](https://www.meetup.com/PyLadies-Berlin/events/276969041/?_xtd=gqFyqDE4NDM4MTYxoXCmaXBob25l&from=ref) on 6th April 2021.
+This repository contains material for the introductory Dask talks given at conferences and meetups.
 
 ## Binder
 
 Open the repository using the binder link below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pavithraes/scalable-data-science-with-dask/main?urlpath=lab/tree/demo.ipynb)
+
+Navigte to the directory corresponding to your session.
 
 ## Local installation
 
@@ -21,4 +23,4 @@ and activate it:
 conda activate pyladies-berlin-dask
 ```
 4. Start Jupyter Lab with: `jupyter lab`
-5. Open `demo.ipynb` and follow along!
+5. Navigte to the directory corresponding to your session and follow along!
