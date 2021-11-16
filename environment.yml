@@ -18,3 +18,4 @@ dependencies:
   - ipywidgets
   - blosc
   - lz4
+  - pyarrow
