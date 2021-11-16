@@ -4,7 +4,7 @@ This repository contains material for the introductory Dask talks given at confe
 
 Open the repository using the binder link below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pavithraes/scalable-data-science-with-dask/main?urlpath=lab/tree/demo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pavithraes/scalable-data-science-with-dask/main?urlpath=lab/tree/pyladies-dublin/demo.ipynb)
 
 Navigte to the directory corresponding to your session and open `demo.ipynb`.
 
