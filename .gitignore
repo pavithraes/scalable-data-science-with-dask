@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 dask-worker-space/
 data/
+.DS_Store
+data*
