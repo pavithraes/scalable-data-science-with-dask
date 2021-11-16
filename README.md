@@ -22,7 +22,7 @@ conda env create -f environment.yml
 ```
 and activate it:
 ```
-conda activate pyladies-berlin-dask
+conda activate scale-with-dask
 ```
 4. Start Jupyter Lab with: `jupyter lab`
 5. Navigte to the directory corresponding to your session, open `demo.ipynb`, and follow along!
