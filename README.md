@@ -8,6 +8,8 @@ Open the repository using the binder link below:
 
 Navigte to the directory corresponding to your session and open `demo.ipynb`.
 
+(Currently points to PyLadies Dublin material.)
+
 ## Local installation
 
 1. Fork the repository and clone your fork:
